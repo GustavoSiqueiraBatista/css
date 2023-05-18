@@ -1,0 +1,18 @@
+body {
+    margin: auto 250px auto 250px;
+    background-color: darkgrey;
+}
+.date {
+    color: aqua;
+    font-family: 'Roboto', 'Helvetica Neue', 'sans-serif';
+
+}
+.post-content{
+    font-family: 'Open Sans', 'Helvetica Neue', 'sans-serif';
+}
+h1{
+    font-family: 'Montserrat', 'Helvetica Neue', 'sans-serif';
+}
+.post{
+    background-color: gray;
+}
